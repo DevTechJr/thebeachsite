@@ -1,0 +1,55 @@
+.menu {
+    background-color: #E3C9A8;
+}
+
+.nunito {
+    font-family: 'Nunito', sans-serif;
+    color: #387DFF;
+}
+
+.hero {
+    
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5em;
+    padding-bottom: 2em;
+    
+}
+
+.h3hero {
+    display: flex;
+    justify-content:center;
+    
+    padding-bottom: 5em;
+}
+
+.navcontainer {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left:0;
+    padding-right: 0;
+}
+
+
+.nunito2 {
+   color: #E3C9A8; 
+   font-family: 'Nunito', sans-serif;
+}
+
+#wave {
+    width: 100%;
+}
+
+#beachactivity {
+    display: flex;
+    justify-content:center;
+    
+}
+
+.gallerypic{
+    border: 5px solid #E3C9A8;
+    width:50%;
+    
+}
+
